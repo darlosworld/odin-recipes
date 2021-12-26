@@ -12,3 +12,4 @@
 * Staged files with $ git add ./ from within the recipes directory, then $ git add ../ for the modified index and readme to stage them.
 * Commited to the git with $ git commit -m "Iteration 4 completed"
 * Finishing off this readme and will commit. Will now push to git hub with $ git push.
+* As part of the CSS Foundations project, just added some simple CSS.

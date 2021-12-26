@@ -1,0 +1,24 @@
+h1, h2{
+    font-family: "Brush Script MT","Lucida Handwriting", cursive;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p, li, a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol{
+    background-color: rgb(255, 190, 92);
+}
+
+ul{
+    background-color: rgb(182, 182, 230);
+}
+
+a{
+    color: rgb(0, 65, 0);
+}
