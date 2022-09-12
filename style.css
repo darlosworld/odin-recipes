@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color: blueviolet;
+}
+
+a:hover{
+    color: red;
+}
+
+img{
+    width: 400px;
+    height: auto;
+    display: block;
+}
